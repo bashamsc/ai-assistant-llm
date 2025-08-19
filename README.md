@@ -28,9 +28,8 @@ This project provides a simple web-based chat interface with feedback collection
 
 
 3. Install dependencies:
-
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4. Set environment variables (.env file):
 
@@ -42,7 +41,7 @@ This project provides a simple web-based chat interface with feedback collection
 5. Run the app:
 
    ```bash
-  flask run
+   flask run
 
 
 6. Open in browser:
