@@ -48,3 +48,13 @@ This project provides a simple web-based chat interface with feedback collection
 
    ```bash
    http://127.0.0.1:5000
+
+
+## 🖼 Demo
+
+### Chat Interface
+![AI Assistant – Chat](static/images/chat-demo.png)
+
+### Feedback Form
+![AI Assistant – Feedback](static/images/feedback-demo.png)
+
